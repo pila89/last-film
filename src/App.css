@@ -1,0 +1,8 @@
+.movieList{
+  display:flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.border{
+   border: 1px solid black;
+}
